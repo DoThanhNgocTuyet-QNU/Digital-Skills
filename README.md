@@ -1,5 +1,4 @@
-# Digital-Skills
-Bài thực hành số 1
-MSV- 4959010218
-Họ và tên: Đỗ Thành Ngọc Tuyết
-Đây là repository đầu tiên
+Student name : Do Thanh Ngoc Tuyet
+Student id: 4959010218
+Course : KNS VÀ ỨNG DỤNG AI
+University: QNU
